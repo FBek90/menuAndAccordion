@@ -178,6 +178,12 @@ Menu
   background: var(--clr-gold);
   color: var(--clr-white);
 }
+
+.filter-btn:focus {
+  box-shadow: var(--clr-gold);
+  background: var(--clr-gold);
+  color: white;
+}
 .section-center {
   width: 90vw;
   margin: 0 auto;
